@@ -18,10 +18,8 @@ Se debe tener instalado git en la maquina en la cual se probara.
 _Se debe seguir estos pasos para poder ejecutar la tarea_
 
 ```
-git clone https://github.com/VIHBOY/SO
-cd SO
-cd Ejecucion
-make
+git clone https://github.com/VIHBOY/S02
+Acceder a carpeta P1 O P2
 ```
 
 ## Ejecutando el problema 1 ⚙️
