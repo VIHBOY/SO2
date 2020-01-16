@@ -43,7 +43,7 @@ _Se le pedira que entregue por terminal una lista con el siguiente formato: 1,3,
 
 _Luego se mostrara por la misma terminal la lista ordenada_
 
-# Explicación
+### Explicación de MergeSort con Multihebra
 _Al momento de dividir el arreglo con la tecnica merge, durante la aplicacion de mergesort se aplicaran hebras, para que todos los subarreglos se ordenen y junten, ya que el algoritmo original va ordenando por subarreglo, mientras los otros se quedan esperando, lo cual no seria optimo comparado con lo descrito al principio_
 
 ## Construido con 🛠️
