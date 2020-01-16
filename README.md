@@ -18,7 +18,7 @@ Se debe tener instalado git en la maquina en la cual se probara.
 _Se debe seguir estos pasos para poder ejecutar la tarea_
 
 ```
-git clone https://github.com/VIHBOY/S02
+git clone https://github.com/VIHBOY/SO2
 Acceder a carpeta P1 O P2
 ```
 
